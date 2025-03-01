@@ -1,7 +1,7 @@
 # EagleXHunter
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/walidzitouni/eaglexhunter/main/logo.png" alt="EagleXHunter Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/walidzitouni/eaglexhunter/main/logo.png" alt="EagleXHunter Logo" width="2000"/>
 </p>
 
 <p align="center">
