@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/username/eaglexhunter/releases">
-    <img src="https://img.shields.io/github/v/release/walidzitouni/eaglexhunter" alt="Release">
+  <a href="https://github.com/walidzitouni/EagleXHunter/releases">
+    <img src="https://img.shields.io/github/v/release/walidzitouni/EagleXHunter" alt="Release">
   </a>
-  <a href="https://github.com/username/eaglexhunter/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/walidzitouni/eaglexhunter" alt="License">
+  <a href="https://github.com/walidzitouni/EagleXHunter/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/walidzitouni/EagleXHunter" alt="License">
   </a>
-  <a href="https://github.com/username/eaglexhunter/stargazers">
-    <img src="https://img.shields.io/github/stars/walidzitouni/eaglexhunter" alt="Stars">
+  <a href="https://github.com/walidzitouni/EagleXHunter/stargazers">
+    <img src="https://img.shields.io/github/stars/walidzitouni/EagleXHunter" alt="Stars">
   </a>
 </p>
 
@@ -37,10 +37,10 @@ EagleXHunter is a powerful reconnaissance tool that aggregates intelligence from
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/eaglexhunter.git
+git clone https://github.com/walidzitouni/EagleXHunter.git
 
 # Navigate to the directory
-cd eaglexhunter
+cd EagleXHunter
 
 # Install dependencies
 pip install -r requirements.txt
@@ -151,6 +151,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Creator: [@napoli1372](https://twitter.com/napoli1372)
-
-Project Link: [https://github.com/username/eaglexhunter](https://github.com/username/eaglexhunter)
+Creator: [@walidzitouni04](https://twitter.com/walidzitouni04)
+Linkedin: https://www.linkedin.com/in/walid-zitouni-634809299/
+Project Link: https://github.com/walidzitouni/EagleXHunter.git
