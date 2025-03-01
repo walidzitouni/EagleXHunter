@@ -10,8 +10,9 @@
 
 <p align="center">
   <a href="https://github.com/walidzitouni/EagleXHunter/releases">
-    <img src="https://img.shields.io/github/v/release/walidzitouni/EagleXHunter" alt="Release">
+    <img src="https://img.shields.io/github/v/release/walidzitouni/EagleXHunter?include_prereleases" alt="Release">
   </a>
+</p>
   <a href="https://github.com/walidzitouni/EagleXHunter/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/walidzitouni/EagleXHunter" alt="License">
   </a>
